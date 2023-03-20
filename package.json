@@ -1,7 +1,7 @@
 {
   "name": "fyers-access-token",
   "version": "1.0.0",
-  "description": "Generate Fyers Access Token with TOTP login using Fyers API",
+  "description": "Generate Fyers Access Token with TOTP using Fyers API",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "repository": {
